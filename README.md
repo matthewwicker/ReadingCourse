@@ -38,17 +38,17 @@ Perhaps something to connect to next lecture:
 
 
 ### Generalization Bounds for Deep Neural Networks
-*Date: ~17th May~, Room TBA*
+*Date: ~ 17th May ~, Room TBA*
 
 ---------------------------------------------------------
 
 ### Bayesian Deep Learning 
-*Date: ~20th May~, Room TBA*
+*Date: ~ 20th May ~, Room TBA*
 
 ---------------------------------------------------------
 
 ### TBD
-*Date: ~24th May~, Room TBA*
+*Date: ~ 24th May ~, Room TBA*
 
 ---------------------------------------------------------
 
