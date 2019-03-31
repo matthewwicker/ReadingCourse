@@ -1,4 +1,4 @@
-# Reading Course
+# Trinity Term Reading Course
 ---------------------------------------------------------
 
 ### Verification of Guassian Processes
@@ -26,14 +26,25 @@ Background Reading:
 
 [Verification of MDPs (from PRISM)](https://www.prismmodelchecker.org/papers/atva14.pdf)
 
-[Univ. of Oxford Internal Lectures](https://weblearn.ox.ac.uk/portal/site/:mpls:comlab/tool/5457b2e1-69ef-4a04-86e7-a787f4a98adf)
-
+[Univ. of Oxford Internal Lectures on Probablisitic Model Checking](https://weblearn.ox.ac.uk/portal/site/:mpls:comlab/tool/5457b2e1-69ef-4a04-86e7-a787f4a98adf)
 
 ---------------------------------------------------------
 
 ### Adversarial Examples and Testing of Deep Neural Networks
 #### Speaker: Matthew Wicker
 *Date: 7th May 11:00am, Room TBA*  
+
+Background Reading: 
+
+[Intriguing properties of neural networks](https://arxiv.org/abs/1312.6199)
+
+[Practical Black-Box Attacks against Machine Learning](https://arxiv.org/pdf/1602.02697.pdf)
+
+[Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/pdf/1706.06083.pdf)
+
+[Exploiting Excessive Invariance caused by Norm-Bounded Adversarial Robustness](https://arxiv.org/abs/1903.10484)
+
+This talk will be focusing on gradient based heuristic attacks on neural networks, settings for testing DNNs, and future directions and philosophy of testing neural networks.
 
 ---------------------------------------------------------
 
