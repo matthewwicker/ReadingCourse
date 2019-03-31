@@ -3,4 +3,8 @@
 
 ### Verification of Guassian Processes
 #### Andrea Patane 
-A list of lectures for the reading course.
+*Date: 1st April, 11:00am Room 441* 
+
+Potential Background Reading:
+---------------------------------------------------------
+
