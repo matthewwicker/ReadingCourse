@@ -74,4 +74,13 @@ This talk will be focusing on gradient based heuristic attacks on neural network
 #### Speaker: Matthew Wicker
 *Date: 28th May 11:00am, Room TBA*
 
+Background Reading:
 
+[PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593)
+
+[VoxNet: A 3D Convolutional Neural Network for Real-Time Object
+Recognition](https://www.ri.cmu.edu/pub_files/2015/9/voxnet_maturana_scherer_iros15.pdf)
+
+[Generating 3D Adversarial Point Clouds](https://arxiv.org/abs/1809.07016)
+
+[Robustness Analysis of 3D Deep Learning in an Adversarial Setting]
