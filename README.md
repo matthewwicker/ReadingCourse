@@ -1,4 +1,4 @@
-# Trinity Term Reading Course
+# List of Lectures and Tentative Schedule
 ---------------------------------------------------------
 
 ### Verification of Guassian Processes
