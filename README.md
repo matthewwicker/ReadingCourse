@@ -18,9 +18,16 @@ Perhaps something to connect to next lecture:
 
 ---------------------------------------------------------
 
-### Probablistic Model Checking
+### Probablistic Model Checking (Verification of MDPs)
 #### Speaker: Marta Kwiatkowska
 *Date: 12th April 3:00pm, Room TBA*
+
+Background Reading:
+
+[Verification of MDPs (from PRISM)](https://www.prismmodelchecker.org/papers/atva14.pdf)
+
+[Univ. of Oxford Internal Lectures](https://weblearn.ox.ac.uk/portal/site/:mpls:comlab/tool/5457b2e1-69ef-4a04-86e7-a787f4a98adf)
+
 
 ---------------------------------------------------------
 
