@@ -11,6 +11,10 @@ Background Reading:
 
 [Robustness Guarentees for Bayesian Inference with Guassian Processes](https://arxiv.org/pdf/1809.06452.pdf)
 
+For those interested on the expansion of this to intractible but more scalable Bayesian Neural Networks:
+
+[Statistical Guarantees for the Robustness of Bayesian Neural Networks](https://arxiv.org/pdf/1903.01980.pdf)
+
 
 Perhaps something to connect to next lecture: 
 
