@@ -68,12 +68,14 @@ This talk will be focusing on gradient based heuristic attacks on neural network
 
 
 ### Generalization Bounds for Deep Neural Networks
-*Date: ~ 17th May ~, Room TBA*
+#### Speaker: Pascale Gordeau
+*Date: 17th May 3:00pm, Room TBA*
 
 ---------------------------------------------------------
 
 ### Bayesian Deep Learning 
-*Date: ~ 20th May ~, Room TBA*
+#### Speaker: Rhiannon Michelmore
+*Date: 20th May 3:00pm, Room TBA*
 
 ---------------------------------------------------------
 
