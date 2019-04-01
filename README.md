@@ -5,6 +5,10 @@
 #### Speaker: Andrea Patane 
 *Date: 1st April, 11:00am Room 441* 
 
+Lecture Slides:
+
+[Andrea Patane Presentation Slides](https://github.com/matthewwicker/ReadingCourse/blob/master/GuassianProcessVerification/Patane_GP.pdf)
+
 Background Reading:
 
 [David Mackay full motivation for Guassian Processes](http://inference.org.uk/mackay/gpB.pdf)
@@ -14,6 +18,10 @@ Background Reading:
 For those interested on the expansion of this to intractible but more scalable Bayesian Neural Networks:
 
 [Statistical Guarantees for the Robustness of Bayesian Neural Networks](https://arxiv.org/pdf/1903.01980.pdf)
+
+
+[Matthew's Lecture Notes (Not super interesting but here they are)](https://github.com/matthewwicker/ReadingCourse/blob/master/GuassianProcessVerification/1April2019ReadingCourseNotes.pdf)
+
 
 
 Perhaps something to connect to next lecture: 
