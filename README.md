@@ -97,4 +97,4 @@ Recognition](https://www.ri.cmu.edu/pub_files/2015/9/voxnet_maturana_scherer_iro
 
 [Generating 3D Adversarial Point Clouds](https://arxiv.org/abs/1809.07016)
 
-[Robustness Analysis of 3D Deep Learning in an Adversarial Setting]
+[Robustness Analysis of 3D Deep Learning in an Adversarial Setting](https://arxiv.org/abs/1904.00923)
