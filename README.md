@@ -24,21 +24,9 @@ For those interested on the expansion of this to intractible but more scalable B
 
 
 
-Perhaps something to connect to next lecture: 
+Perhaps something to connect to MDP verification (see future talks): 
 
 [Safe exploration and optimization of constrained MDPs using Gaussian processes](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17016/16233)
-
----------------------------------------------------------
-
-### Probablistic Model Checking (Verification of MDPs)
-#### Speaker: Marta Kwiatkowska
-*Date: 12th April 3:00pm, Room TBA*
-
-Background Reading:
-
-[Verification of MDPs (from PRISM)](https://www.prismmodelchecker.org/papers/atva14.pdf)
-
-[Univ. of Oxford Internal Lectures on Probablisitic Model Checking](https://weblearn.ox.ac.uk/portal/site/:mpls:comlab/tool/5457b2e1-69ef-4a04-86e7-a787f4a98adf)
 
 ---------------------------------------------------------
 
@@ -63,6 +51,18 @@ This talk will be focusing on gradient based heuristic attacks on neural network
 ### Safe Reinforcement Learning
 #### Speaker: Clare Lyle
 *Date: 14th May 11:00am, Room TBA*
+
+---------------------------------------------------------
+
+### Probablistic Model Checking (Verification of MDPs)
+#### Speaker: Marta Kwiatkowska
+*Date: 12th April 3:00pm, Room TBA*
+
+Background Reading:
+
+[Verification of MDPs (from PRISM)](https://www.prismmodelchecker.org/papers/atva14.pdf)
+
+[Univ. of Oxford Internal Lectures on Probablisitic Model Checking](https://weblearn.ox.ac.uk/portal/site/:mpls:comlab/tool/5457b2e1-69ef-4a04-86e7-a787f4a98adf)
 
 ---------------------------------------------------------
 
