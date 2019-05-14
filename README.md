@@ -50,7 +50,18 @@ This talk will be focusing on gradient based heuristic attacks on neural network
 
 ### Safe Reinforcement Learning
 #### Speaker: Clare Lyle
-*Date: 14th May 11:00am, Room TBA*
+*Date: 14th May 11:00am, Tony Hoare Room*
+[Slides](https://github.com/matthewwicker/ReadingCourse/blob/master/Fafe_RL.pdf)
+
+Background reading:
+
+[Risk-Aware Active Inverse Reinforcement Learning](http://proceedings.mlr.press/v87/brown18a/brown18a.pdf)
+
+[Safe Model-based Reinforcement Learning with Stability Guarantees](https://papers.nips.cc/paper/6692-safe-model-based-reinforcement-learning-with-stability-guarantees.pdf)
+
+[Constrained Policy Optimization](https://arxiv.org/pdf/1705.10528.pdf)
+
+[Implicit Quantile Networks for Distributional Reinforcement Learning](https://arxiv.org/pdf/1806.06923.pdf)
 
 ---------------------------------------------------------
 
