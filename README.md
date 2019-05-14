@@ -51,7 +51,8 @@ This talk will be focusing on gradient based heuristic attacks on neural network
 ### Safe Reinforcement Learning
 #### Speaker: Clare Lyle
 *Date: 14th May 11:00am, Tony Hoare Room*
-[Slides](https://github.com/matthewwicker/ReadingCourse/blob/master/Fafe_RL.pdf)
+
+[Slides](https://github.com/matthewwicker/ReadingCourse/blob/master/Safe_RL.pdf)
 
 Background reading:
 
